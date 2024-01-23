@@ -1,8 +1,9 @@
-package com.mirusystems.rvi;
+package com.mirusystems.teg;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
 
 public class MainActivity extends AppCompatActivity {
 
